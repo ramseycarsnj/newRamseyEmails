@@ -33,11 +33,39 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/blackFriday.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/blackFriday.html",
+		"oF": 0
+		},
+	"\/blackFridayHeader.gif": {
+		"ft": 4194304,
+		"iS": 2496707,
+		"oA": 0,
+		"oAP": "\/blackFridayHeader.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/bradInitial.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bradInitial.html",
 		"oF": 0
+		},
+	"\/cx5.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/cx5.psd",
+		"oF": 0
+		},
+	"\/cx5Pricing.png": {
+		"ft": 32768,
+		"iS": 360525,
+		"oA": 0,
+		"oAP": "\/cx5Pricing.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/demoSpecial.html": {
 		"ft": 8192,
@@ -79,6 +107,52 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/forester.png": {
+		"ft": 32768,
+		"iS": 183145,
+		"oA": 0,
+		"oAP": "\/forester.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/legacyOb.png": {
+		"ft": 32768,
+		"iS": 149577,
+		"oA": 0,
+		"oAP": "\/legacyOb.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mats.gif": {
+		"ft": 4194304,
+		"iS": 2213587,
+		"oA": 0,
+		"oAP": "\/mats.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mats.png": {
+		"ft": 32768,
+		"iS": 17603836,
+		"oA": 0,
+		"oAP": "\/mats.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mazdaBlackFriday.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mazdaBlackFriday.html",
+		"oF": 0
+		},
+	"\/mazdaBlackFridayHeader.png": {
+		"ft": 32768,
+		"iS": 24932,
+		"oA": 0,
+		"oAP": "\/mazdaBlackFridayHeader.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/ob.jpg": {
 		"ft": 16384,
 		"iS": 217706,
@@ -98,6 +172,22 @@
 		"iS": 5213732,
 		"oA": 0,
 		"oAP": "\/preOwnedContent.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/s60.png": {
+		"ft": 32768,
+		"iS": 434314,
+		"oA": 0,
+		"oAP": "\/s60.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/s90.png": {
+		"ft": 32768,
+		"iS": 436191,
+		"oA": 0,
+		"oAP": "\/s90.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -141,6 +231,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/v60.png": {
+		"ft": 32768,
+		"iS": 545602,
+		"oA": 0,
+		"oAP": "\/v60.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/v90header.png": {
 		"ft": 32768,
 		"iS": 220850,
@@ -181,6 +279,20 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/volvoBlackFriday.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/volvoBlackFriday.html",
+		"oF": 0
+		},
+	"\/volvoBlackFridayHeader.gif": {
+		"ft": 4194304,
+		"iS": 2225719,
+		"oA": 0,
+		"oAP": "\/volvoBlackFridayHeader.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/volvoEmailHeaderWonderofWinter.png": {
 		"ft": 32768,
 		"iS": 95193,
@@ -211,6 +323,22 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/xc60.png": {
+		"ft": 32768,
+		"iS": 565051,
+		"oA": 0,
+		"oAP": "\/xc60.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/xc90.png": {
+		"ft": 32768,
+		"iS": 536753,
+		"oA": 0,
+		"oAP": "\/xc90.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/xvheader.png": {
 		"ft": 32768,
 		"iS": 236405,
@@ -224,6 +352,14 @@
 		"iS": 209311,
 		"oA": 0,
 		"oAP": "\/xvI.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/xvImp.png": {
+		"ft": 32768,
+		"iS": 149847,
+		"oA": 0,
+		"oAP": "\/xvImp.png",
 		"oF": 0,
 		"opt": 0
 		},
