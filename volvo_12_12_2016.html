@@ -2,11 +2,6 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-        <!-- Facebook sharing information tags -->
-        <meta property="og:title" content="*|MC:SUBJECT|*" />
-
-        <title>*|MC:SUBJECT|*</title>
 		<style type="text/css">
 			/* Client-specific Styles */
 			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
@@ -51,15 +46,15 @@
 			h1, .h1{
 				/*@editable*/ color:#202020;
 				display:block;
-				/*@editable*/ font-family:Helvetica, sans-serif;
-				/*@editable*/ font-size:34px;
+				/*@editable*/ font-family:Arial, sans-serif;
+				/*@editable*/ font-size:40px;
 				/*@editable*/ font-weight:bold;
 				/*@editable*/ line-height:100%;
 				margin-top:0;
 				margin-right:0;
 				margin-bottom:10px;
 				margin-left:0;
-				/*@editable*/ text-align:left;
+				/*@editable*/ text-align:center;
 			}
 
 			/**
@@ -197,10 +192,37 @@
 				/*@editable*/ font-weight:normal;
 				/*@editable*/ text-decoration:underline;
 			}
+      .headerContent2{
+        background-color: #000000;
+				/*@editable*/ color:#202020;
+				/*@editable*/ font-family:Helvetica, sans-serif;
+				/*@editable*/ font-size:34px;
+				/*@editable*/ font-weight:bold;
+				/*@editable*/ line-height:100%;
+				/*@editable*/ padding:10px 0;
+				/*@editable*/ text-align:center;
+				/*@editable*/ vertical-align:middle;
+			}
+
+			/**
+			* @tab Header
+			* @section header link
+			* @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+			*/
+			.headerContent2 a:link, .headerContent2 a:visited, /* Yahoo! Mail Override */ .headerContent2 a .yshortcuts /* Yahoo! Mail Override */{
+				/*@editable*/ color:#336699;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ text-decoration:underline;
+			}
 
 			#headerImage{
 				height:auto;
-				max-width:600px !important;
+				width:600px !important;
+			}
+      #headerImage2{
+				height:auto;
+				width:57px !important;
+        margin: 0 auto;
 			}
 
 			/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: MAIN BODY /\/\/\/\/\/\/\/\/\/\ */
@@ -222,10 +244,11 @@
 			*/
 			.bodyContent div{
 				/*@editable*/ color:#505050;
-				/*@editable*/ font-family:Helvetica, sans-serif;
-				/*@editable*/ font-size:14px;
+				/*@editable*/ font-family:Arial, sans-serif;
+				/*@editable*/ font-size:16px;
 				/*@editable*/ line-height:150%;
 				/*@editable*/ text-align:left;
+        padding: 0 20px;
 			}
 
 			/**
@@ -233,11 +256,6 @@
 			* @section body link
 			* @tip Set the styling for your email's main content links. Choose a color that helps them stand out from your text.
 			*/
-			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
-				/*@editable*/ color:#336699;
-				/*@editable*/ font-weight:normal;
-				/*@editable*/ text-decoration:underline;
-			}
 
 			.bodyContent img{
 				display:inline;
@@ -325,6 +343,24 @@
 			#utility div{
 				/*@editable*/ text-align:center;
 			}
+      .ctaButtons {
+
+        width: 90%;
+        margin: 30px auto 0 auto;
+      }
+      .ctaButtons a {
+        text-decoration: none;
+        color: #4d4e53;
+        border: 2px solid #4d4e53;
+        padding: 10px 30px;
+        margin: 5px;
+      }
+      #terms {
+        font-size: 10px;
+        padding: 25px;
+        text-align:center;
+        color: #ffffff;
+      }
 		</style>
 	</head>
     <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
@@ -342,13 +378,13 @@
                                     	<tr>
                                         	<td valign="top">
                                             	<div mc:edit="std_preheader_content">
-                                                	 Use this area to offer a short teaser of your email's content. Text here will show in the preview area of some email clients.
+                                                	Sweden's Greetings from Ramsey Volvo.
                                                 </div>
                                             </td>
                                             <!-- *|IFNOT:ARCHIVE_PAGE|* -->
 											<td valign="top" width="190">
                                             	<div mc:edit="std_preheader_links">
-                                                	Is this email not displaying correctly?<br /><a href="*|ARCHIVE|*" target="_blank">View it in your browser</a>.
+                                                	Is this email not displaying correctly?<br /><a href="http://ramseycarsnj.github.io/newRamseyEmails/volvo_12_12_2016.html" target="_blank">View it in your browser</a>.
                                                 </div>
                                             </td>
 											<!-- *|END:IF|* -->
@@ -366,10 +402,19 @@
                                     <!-- // Begin Template Header \\ -->
                                 	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader">
                                         <tr>
+                                            <td class="headerContent2">
+
+                                              <!-- // Begin Module: Standard Header Image \\ -->
+                                              <a href="http://volvocarsramsey.com/"><img src="http://ramseycarsnj.github.io/newRamseyEmails/volvoLogo.png" id="headerImage2" /></a>
+                                              <!-- // End Module: Standard Header Image \\ -->
+
+                                            </td>
+                                        </tr>
+                                        <tr>
                                             <td class="headerContent">
 
                                             	<!-- // Begin Module: Standard Header Image \\ -->
-                                            	<img src="http://ramseycarsnj.github.io/newRamseyEmails/xc60Xs60EmailHeader.png" style="width:600px;" id="headerImage campaign-icon" />
+                                            	<a href="http://www.volvocarsramsey.com/wonder-of-winter-sales-event.htm"><img src="http://ramseycarsnj.github.io/newRamseyEmails/xc60Xs60EmailHeaderFinal.png" style="width:600px;" id="headerImage" /></a>
                                             	<!-- // End Module: Standard Header Image \\ -->
 
                                             </td>
@@ -390,14 +435,20 @@
                                                     <tr>
                                                         <td valign="top">
                                                             <div mc:edit="std_content00">
-                                                                <h1 class="h1">Heading 1</h1>
-                                                                <h2 class="h2">Heading 2</h2>
-                                                                <h3 class="h3">Heading 3</h3>
-                                                                <h4 class="h4">Heading 4</h4>
-                                                                <strong>Getting started:</strong> Customize your template by clicking on the style editor tabs up above. Set your fonts, colors, and styles. After setting your styling is all done you can click here in this area, delete the text, and start adding your own awesome content!
-                                                                <br />
-                                                                <br />
-                                                                After you enter your content, highlight the text you want to style and select the options you set in the style editor in the "styles" drop down box. Want to <a href="http://www.mailchimp.com/kb/article/im-using-the-style-designer-and-i-cant-get-my-formatting-to-change" target="_blank">get rid of styling on a bit of text</a>, but having trouble doing it? Just use the "remove formatting" button to strip the text of any formatting and reset your style.
+                                                                <h1 class="h1">No Payments for 3 Months</h1>
+                                                                <br>
+                                                                We're bringing more merriment to the holiday season by giving you three months payments on us when you purchase or lease a new Volvo in NJ during our Wonder of Winter event.
+<br><br>
+All eligible models come equipped with standard features like engine remote start and built-in WiFi. It's our way of wishing you happy holidays this year.
+<br><br>
+Whether you're headed home for the holidays or off on a wintry adventure, hit the road in a brand new Volvo. And for a limited time, get three months payments on us. Happy Holidays indeed.
+
+<br>
+<div class="ctaButtons">
+  <a href="http://www.volvocarsramsey.com/new-inventory/index.htm">VIEW INVENTORY</a><a href="http://www.volvocarsramsey.com/wonder-of-winter-sales-event.htm">MORE INFORMATION</a>
+</div>
+<br><br>
+
                                                             </div>
 														</td>
                                                     </tr>
@@ -422,6 +473,7 @@
                                                   <tr>
                                                       <td colspan="2" valign="middle" id="social" align="center">
                                                           <div>
+                                                            <br>
                                                               <a href="https://facebook.com/RamseyVolvo" alt="like us on Facebook"><img src="https://ramseycarsnj.github.io/ramseyEmails/volvo/socialMediaIcons/fbIcon.png" alt="link us on Facebook" width="30px"></a>
                                                               &nbsp;&nbsp;&nbsp;
                                                               <a href="https://www.twitter.com/RamseyVolvoNJ" alt="follow us on Twitter"><img src="https://ramseycarsnj.github.io/ramseyEmails/volvo/socialMediaIcons/twitterIcon.png" alt="follow us on Twitter" width="30px"></a>
@@ -433,16 +485,29 @@
                                                     <tr>
                                                         <td colspan="2" valign="middle" id="social">
                                                             <div>
-                                                                 <a href="http://www.ramseyvolvo.com/" style="color: #fff;font-weight: normal;text-decoration: none;font-size:16px;">Ramsey Volvo</a>
+                                                                 <a href="http://www.volvocarsramsey.com/" style="color: #fff;font-weight: normal;text-decoration: none;font-size:16px;">Ramsey Volvo</a>
                                                                  <br>
-                                                                 <a href="http://www.ramseyvolvo.com/dealership/directions.htm" style="color: #fff;font-weight: normal;text-decoration: none;">585 Rt17s Ramsey,NJ</a>
+                                                                 <a href="http://www.volvocarsramsey.com/dealership/directions.htm" style="color: #fff;font-weight: normal;text-decoration: none;">585 Rt17s Ramsey,NJ</a>
                                                                  <br>
                                                                  <a href="tel:8883190377" style="color: #fff;font-weight: normal;text-decoration: none;">888.319.0377</a>
+                                                                 <br>
                                                                  <br>
                                                             </div>
                                                         </td>
                                                     </tr>
 
+                                                </table>
+                                                <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                                  <tr>
+                                                      <td colspan="2" valign="middle" align="center">
+                                                          <div  id="terms">
+                                                            TERMS &amp; CONDITIONS
+                                                            <br>
+                                                            <br>
+                                                            Take new retail delivery from dealer stock between December 1, 2016 and January 3rd, 2017.  Car shown with optional equipment. Advertised lease payment and financing excludes taxes, title, and regis. fees and is available for qualified customers based on FICO score through Volvo Car Financial Services. Complimentary first three payments, valid on new 2016 & 2017 (excludes S90, XC90, and Polestar Vehicles) lease or finance contracts through Volvo Car Financial Services.  The value of the first three monthly payments will be credited to your account upon opening.  On lease agreements this value will include a noncash credit equal to your first monthly payment due at signing. Payments may vary, as dealer determines price. Offers available at participating dealers. Contact Ramsey Volvo for more details. Not responsible for typographical errors.
+                                                          </div>
+                                                      </td>
+                                                  </tr>
                                                 </table>
                                                 <!-- // End Module: Standard Footer \\ -->
 
