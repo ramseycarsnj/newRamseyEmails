@@ -7,8 +7,20 @@
 		"uuidString": "AA00C551-A2E7-4ABE-A9FA-E53ED1E0C774"
 		}
 	],
-"creatorBuild": "25444",
+"creatorBuild": "25479",
 "files": {
+	"\/.demoSpecials.psd.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.demoSpecials.psd.icloud",
+		"oF": 0
+		},
+	"\/.preOwnedContent.gif.icloud": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.preOwnedContent.gif.icloud",
+		"oF": 0
+		},
 	"\/2017_Crosstrek_-_bluetooth.png": {
 		"ft": 32768,
 		"iS": 129134,
@@ -53,6 +65,12 @@
 		"oAP": "\/bradInitial.html",
 		"oF": 0
 		},
+	"\/bradOffer.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bradOffer.html",
+		"oF": 0
+		},
 	"\/cx5.psd": {
 		"ft": 8192,
 		"oA": 2,
@@ -64,6 +82,22 @@
 		"iS": 360525,
 		"oA": 0,
 		"oAP": "\/cx5Pricing.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/december2k.png": {
+		"ft": 32768,
+		"iS": 249916,
+		"oA": 0,
+		"oAP": "\/december2k.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/december3k.png": {
+		"ft": 32768,
+		"iS": 296416,
+		"oA": 0,
+		"oAP": "\/december3k.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -81,12 +115,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/demoSpecials.psd": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/demoSpecials.psd",
-		"oF": 0
-		},
 	"\/electionDay.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -98,6 +126,14 @@
 		"oA": 2,
 		"oAP": "\/emailHeaderImage.swf",
 		"oF": 0
+		},
+	"\/fbIcon.png": {
+		"ft": 32768,
+		"iS": 1414,
+		"oA": 0,
+		"oAP": "\/fbIcon.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/for.jpg": {
 		"ft": 16384,
@@ -114,6 +150,12 @@
 		"oAP": "\/forester.png",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/jiminitial.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/jiminitial.html",
+		"oF": 0
 		},
 	"\/legacyOb.png": {
 		"ft": 32768,
@@ -167,14 +209,6 @@
 		"oAP": "\/pageDivs.html",
 		"oF": 0
 		},
-	"\/preOwnedContent.gif": {
-		"ft": 4194304,
-		"iS": 5213732,
-		"oA": 0,
-		"oAP": "\/preOwnedContent.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/s60.png": {
 		"ft": 32768,
 		"iS": 434314,
@@ -188,6 +222,38 @@
 		"iS": 436191,
 		"oA": 0,
 		"oAP": "\/s90.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/socialMediaIcons\/fbIcon.png": {
+		"ft": 32768,
+		"iS": 1414,
+		"oA": 0,
+		"oAP": "\/socialMediaIcons\/fbIcon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/socialMediaIcons\/twitterIcon.png": {
+		"ft": 32768,
+		"iS": 920,
+		"oA": 0,
+		"oAP": "\/socialMediaIcons\/twitterIcon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/socialMediaIcons\/youtubeIcon.png": {
+		"ft": 32768,
+		"iS": 1015,
+		"oA": 0,
+		"oAP": "\/socialMediaIcons\/youtubeIcon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/subaru_snow_footer.gif": {
+		"ft": 4194304,
+		"iS": 1226790,
+		"oA": 0,
+		"oAP": "\/subaru_snow_footer.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -215,6 +281,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/subaruHeader.gif": {
+		"ft": 4194304,
+		"iS": 3128600,
+		"oA": 0,
+		"oAP": "\/subaruHeader.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/subaruMeanPageSlide.png": {
 		"ft": 32768,
 		"iS": 685869,
@@ -223,11 +297,37 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/subaruWinter.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/subaruWinter.html",
+		"oF": 0
+		},
 	"\/swedensGreetings.gif": {
 		"ft": 4194304,
 		"iS": 2036994,
 		"oA": 0,
 		"oAP": "\/swedensGreetings.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/tester.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/tester.html",
+		"oF": 0
+		},
+	"\/thing.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/thing.html",
+		"oF": 0
+		},
+	"\/twitterIcon.png": {
+		"ft": 32768,
+		"iS": 920,
+		"oA": 0,
+		"oAP": "\/twitterIcon.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -254,6 +354,12 @@
 		"oAP": "\/volheadings.png",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/volvo_12_12_2016.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/volvo_12_12_2016.html",
+		"oF": 0
 		},
 	"\/Volvo_V90_-Climate.png": {
 		"ft": 32768,
@@ -307,6 +413,14 @@
 		"oAP": "\/volvoEmailHeaderWonderofWinter.psd",
 		"oF": 0
 		},
+	"\/volvoLogo.png": {
+		"ft": 32768,
+		"iS": 10838,
+		"oA": 0,
+		"oAP": "\/volvoLogo.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/wonderOfWinter.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -330,6 +444,14 @@
 		"oAP": "\/xc60.png",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/xc60Xs60EmailHeader.png": {
+		"ft": 32768,
+		"iS": 957526,
+		"oA": 0,
+		"oAP": "\/xc60Xs60EmailHeader.png",
+		"oF": 0,
+		"opt": 1
 		},
 	"\/xc90.png": {
 		"ft": 32768,
@@ -368,6 +490,14 @@
 		"iS": 68171,
 		"oA": 0,
 		"oAP": "\/XVsupImg.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/youtubeIcon.png": {
+		"ft": 32768,
+		"iS": 1015,
+		"oA": 0,
+		"oAP": "\/youtubeIcon.png",
 		"oF": 0,
 		"opt": 0
 		}
@@ -824,6 +954,10 @@
 			"active": 0,
 			"optionString": "{'properties': 'always'}"
 			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
 		"class-methods-use-this": {
 			"active": 0,
 			"optionString": "{'exceptMethods': []}"
@@ -987,6 +1121,10 @@
 		"max-statements": {
 			"active": 0,
 			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
 			},
 		"multiline-ternary": {
 			"active": 0,
@@ -1352,6 +1490,10 @@
 			"active": 0,
 			"optionString": "'except-parens'"
 			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-script-url": {
 			"active": 0,
 			"optionString": ""
@@ -1583,6 +1725,10 @@
 		"radix": {
 			"active": 0,
 			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-jsdoc": {
 			"active": 0,
@@ -2416,6 +2562,10 @@
 			},
 		"space-colon": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"toplevel": {
